@@ -1,8 +1,4 @@
-PORTFOLIO SOURCE CODE Shivnarayan Chaurasiya — Full Stack Developer
-shivnarayanchaurasiya594@gmail.com
-github.com/ShivnarayanChaurasiya | linkedin.com/in/shivnarayan-chaurasiya-285499322
-FILE: portfolio.html
-Stack: HTML5 | CSS3 | Vanilla JavaScript
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -798,4 +794,4 @@ entry.target.style.transform = 'translateY(0)';
 });
 }, { threshold: 0.1 });
 document.querySelectorAll('.skill-card, .project-card,
-© 2026 Shivnarayan Chaurasiya — Ghaziabad, India ■■
+
